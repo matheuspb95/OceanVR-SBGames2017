@@ -29,3 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/Artico.unity
     guid: 974d41822e329fe40b88ecea6ae6fd94
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 322b539022039826b9c7151142942419,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6fce7135eb95b18caa8c3aaed6bdd533,
+      type: 2}
